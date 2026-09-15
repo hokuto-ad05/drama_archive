@@ -110,8 +110,7 @@ Drama Archiveには、すでに次の能力が表れています。
 # 完成時の構成（案）
 
 ```text
-
-/
+drama_archive/
 ├── public/
 │   └── pict/
 │       ├── logo.svg
